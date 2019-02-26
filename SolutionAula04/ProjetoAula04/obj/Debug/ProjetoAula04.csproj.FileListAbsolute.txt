@@ -1,0 +1,13 @@
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\SolutionAula04\ProjetoAula04\bin\Debug\ProjetoAula04.exe.config
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.csprojResolveAssemblyReference.cache
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.Form1.resources
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.Properties.Resources.resources
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.csproj.GenerateResource.Cache
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\SolutionAula04\ProjetoAula04\bin\Debug\ProjetoAula04.exe
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\SolutionAula04\ProjetoAula04\bin\Debug\ProjetoAula04.pdb
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.exe
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.pdb
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.Exercicio.resources
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.Exercicio2.resources
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.Exercicio3.resources
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\SolutionAula04\ProjetoAula04\obj\Debug\ProjetoAula04.Imagem.resources

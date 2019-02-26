@@ -1,0 +1,10 @@
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\Sistende Solution\Sistenge\bin\Debug\Sistenge.exe.config
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\Sistende Solution\Sistenge\bin\Debug\Sistenge.exe
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\Sistende Solution\Sistenge\bin\Debug\Sistenge.pdb
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\Sistende Solution\Sistenge\obj\Debug\Sistenge.csprojResolveAssemblyReference.cache
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\Sistende Solution\Sistenge\obj\Debug\Sistenge.frmLogin.resources
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\Sistende Solution\Sistenge\obj\Debug\Sistenge.Properties.Resources.resources
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\Sistende Solution\Sistenge\obj\Debug\Sistenge.csproj.GenerateResource.Cache
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\Sistende Solution\Sistenge\obj\Debug\Sistenge.exe
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\Sistende Solution\Sistenge\obj\Debug\Sistenge.pdb
+C:\Users\bruno.fscosta\Documents\ProjetoCSharp\Sistende Solution\Sistenge\obj\Debug\Sistenge.frmMenuPrincipal.resources
